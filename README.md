@@ -40,16 +40,3 @@ This project follows the CRISP-DM process structure:
  6.  Deployment
   -Commit to Github
   -Publish on Medium
-  
-Motivation for work:
-Please see section 1, business understanding
-
-Repo file descriptions:
-Python script for analysis
-
-Summary of analysis:
--West Town is the most popular neighborhood for Airbnb rentals, is usually the entire unit and priced more expensively than Lake View but less expensively than Near North
-
-Blog post:
-Please see first line of this ReadMe
-
