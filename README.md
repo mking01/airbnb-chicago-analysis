@@ -42,3 +42,6 @@ This project follows the CRISP-DM process structure:
  6.  Deployment
   -Commit to Github
   -Publish on Medium
+  
+  ## Credits and Acknowledgements
+  This project was completed as part of Udacity's Data Scientist Nanodegree program.
