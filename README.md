@@ -1,8 +1,10 @@
-# airbnb-chicago-analysis
+# Chicago Airbnb Analysis
 
+## Purpose
 This project analyzes Chicago Airbnb data to optimize a West Loop Airbnb listing. Overview reflected in a Medium
 blog post (here: https://medium.com/@molly.king32/become-a-chicagoan-entrepreneur-611c6a15e4e7).
 
+## Project Structure
 This project follows the CRISP-DM process structure:
 1.  Business Understanding
   -Airbnb's Chicago dataset was used for this project.  Only the listings data was used.
